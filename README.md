@@ -1,7 +1,7 @@
 <!-- CYBER ELITE PROFILE -->
 
 <h1 align="center">⚡ Harsh Arya ⚡</h1>
-<h3 align="center">Cybersecurity Engineer • SIEM Builder • DevSecOps Enthusiast</h3>
+<h3 align="center">Cybersecurity Engineer • SIEM Builder • Full Stack Developer </h3>
 
 <p align="center">
 🛡️ Threat Detection Engineering • 🔐 Blue Team Operations • ☁️ Secure Cloud Systems
@@ -108,9 +108,9 @@ To build **real security infrastructure** and work as:
 
 # 🌐 Connect
 
-📧 Email: your email  
-💼 LinkedIn: your linkedin  
-🌍 Portfolio: your portfolio  
+📧 Email: Harsharyaofficial27@gmail.com
+💼 LinkedIn:  linkedin.com/in/harsh-arya-830440370
+🌍 Portfolio:  https://harsh-arya-portfolio.vercel.app/
 
 ---
 
