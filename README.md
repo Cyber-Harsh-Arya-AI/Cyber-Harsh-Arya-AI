@@ -1,7 +1,7 @@
 <!-- CYBER ELITE PROFILE -->
 
 <h1 align="center">⚡ Harsh Arya ⚡</h1>
-<h3 align="center">Cybersecurity Engineer • SIEM Builder • Full Stack Developer </h3>
+<h3 align="center">Cybersecurity Engineer • Full Stack Developer </h3>
 
 <p align="center">
 🛡️ Threat Detection Engineering • 🔐 Blue Team Operations • ☁️ Secure Cloud Systems
